@@ -1,0 +1,11 @@
+{
+  "name": "weather-garden",
+  "version": "1.0.0",
+  "description": "A garden that grows with the weather.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Ellis and Montana Bruns",
+  "license": "ISC"
+}
